@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.16.0"
+  }
+}
+{
+  "vercel": {
+    "build": {
+      "src": "frontend",
+      "use": "@vercel/static-build"
+    }
+  }
+}
